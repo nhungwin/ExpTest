@@ -1,0 +1,6 @@
+C:\Jobs\Experian\Technical_Test\ExperianTest\DateAdd\bin\Debug\DateAdd.exe.config
+C:\Jobs\Experian\Technical_Test\ExperianTest\DateAdd\bin\Debug\DateAdd.exe
+C:\Jobs\Experian\Technical_Test\ExperianTest\DateAdd\bin\Debug\DateAdd.pdb
+C:\Jobs\Experian\Technical_Test\ExperianTest\DateAdd\obj\Debug\DateAdd.csprojResolveAssemblyReference.cache
+C:\Jobs\Experian\Technical_Test\ExperianTest\DateAdd\obj\Debug\DateAdd.exe
+C:\Jobs\Experian\Technical_Test\ExperianTest\DateAdd\obj\Debug\DateAdd.pdb
